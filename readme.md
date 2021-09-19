@@ -14,7 +14,11 @@ I am Joseph Gitau
 [![GitHub Joseph Gitau](https://img.shields.io/github/followers/josephgitau?label=follow&style=social)](https://github.com/josephgitau)
 
 <a href="https://github.com/josephgitau">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=josephgitau&show_icons=true&theme=light&line_height=27" alt="Joseph's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephgitau&theme=dark&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/josephgitau">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=josephgitau&show_icons=true&theme=dark&line_height=27" alt="Joseph's github stats"/>
 </a>
 
 <div align="center">
