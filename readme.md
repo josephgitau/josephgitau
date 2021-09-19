@@ -12,6 +12,7 @@ I am Joseph Gitau
 
 [![Linkedin: Joseph Gitau](https://img.shields.io/badge/-josephgitau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephgitau/)](https://www.linkedin.com/in/josephgitau/)
 [![GitHub Joseph Gitau](https://img.shields.io/github/followers/josephgitau?label=follow&style=social)](https://github.com/josephgitau)
+[![website](https://img.shields.io/badge/PortfolioWebsite-josephgitau.me-2648ff?style=flat-square&logo=google-chrome)](https://josephgitau.me/)
 
 <a href="https://github.com/josephgitau">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephgitau&theme=dark&hide_langs_below=1" />
