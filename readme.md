@@ -9,3 +9,7 @@ I am Joseph Gitau
 - 📫 How to reach me: [Whatapp - @Joseph](https://api.whatsapp.com/send?phone=254704084626&text=Hello)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 5 hours palying and improving my chess game.
+
+<a href="https://github.com/josephgitau">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=josephgitau&show_icons=true&theme=light&line_height=27" alt="Joseph's github stats"/>
+</a>
