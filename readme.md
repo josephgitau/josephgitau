@@ -1,6 +1,7 @@
 Hello There 👋
 I am Joseph Gitau
 
+- Learning software engineering 
 - 🔭 I’m currently working on [Machine Learning](https://africdsa.com/).
 - 🌱 I’m currently learning more about NLP.
 - 👯 I’m looking to collaborate on [Whatsapp](https://api.whatsapp.com/send?phone=254704084626&text=Hello).
