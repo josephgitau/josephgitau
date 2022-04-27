@@ -9,7 +9,7 @@ I am Joseph Gitau
 - 💬 Ask me about Python or any tech-related stuff.
 - 📫 How to reach me: [Whatapp - @Joseph](https://api.whatsapp.com/send?phone=254704084626&text=Hello)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 5 hours palying and improving my chess game.
+- ⚡ Fun fact: I spend almost 5 hours playing and improving my chess game.
 
 [![Linkedin: Joseph Gitau](https://img.shields.io/badge/-josephgitau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephgitau/)](https://www.linkedin.com/in/josephgitau/)
 [![GitHub Joseph Gitau](https://img.shields.io/github/followers/josephgitau?label=follow&style=social)](https://github.com/josephgitau)
