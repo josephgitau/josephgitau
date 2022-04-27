@@ -22,6 +22,11 @@ I am Joseph Gitau
 <a href="https://github.com/josephgitau">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=josephgitau&show_icons=true&theme=dark&line_height=27" alt="Joseph's github stats"/>
 </a>
+<p align= "center"><img src="https://media2.giphy.com/media/QmGShkWAWid2hzCqHE/giphy.gif" width= "35" height= "70"></p>
+
+<p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=josephgitau&show_icons=true"></p>
+<hr>
+<img src="https://spectrapackautomation.com/img/contactme.gif" />
 
 <div align="center">
 
