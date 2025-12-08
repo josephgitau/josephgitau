@@ -36,11 +36,11 @@
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephgitau&theme=dark" alt="GitHub Streak" />
+  <img src="![Trophy](https://github-profile-trophy.vercel.app/?username=josephgitau&theme=darkhub&margin-w=15)" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josephgitau&theme=github_dark" alt="GitHub Profile Summary" />
+  <img src="![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josephgitau&theme=github-dark)" alt="GitHub Profile Summary" />
 </p>
 
 ---
