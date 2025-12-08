@@ -1,30 +1,40 @@
-Hello There 👋
-I am Joseph Gitau
+# Hi there, I'm Joseph Gitau 👋
 
-- Learning software engineering 
-- 🔭 I’m currently working on [Machine Learning](https://africdsa.com/).
-- 🌱 I’m currently learning more about NLP.
-- 👯 I’m looking to collaborate on [Whatsapp](https://api.whatsapp.com/send?phone=254704084626&text=Hello).
-- 🤔 I’m looking for help with Speech Recorgnition.
-- 💬 Ask me about Python or any tech-related stuff.
-- 📫 How to reach me: [Whatapp - @Joseph](https://api.whatsapp.com/send?phone=254704084626&text=Hello)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 5 hours playing and improving my chess game.
+**Software Engineer | Machine Learning Enthusiast | Chess Player**
 
-[![Linkedin: Joseph Gitau](https://img.shields.io/badge/-josephgitau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephgitau/)](https://www.linkedin.com/in/josephgitau/)
-[![GitHub Joseph Gitau](https://img.shields.io/github/followers/josephgitau?label=follow&style=social)](https://github.com/josephgitau)
-[![website](https://img.shields.io/badge/PortfolioWebsite-josephgitau.me-2648ff?style=flat-square&logo=google-chrome)](https://josephgitau.me/)
+---
 
-<a href="https://github.com/josephgitau">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephgitau&theme=dark&hide_langs_below=1" />
-</a>
+### About Me
 
-<a href="https://github.com/josephgitau">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=josephgitau&show_icons=true&theme=dark&line_height=27" alt="Joseph's github stats"/>
-</a>
+🔭 Currently working on [Machine Learning projects](https://africdsa.com/)  
+🌱 Learning more about **NLP** and **Speech Recognition**  
+💬 Ask me about **Python** or any tech-related stuff  
+♟️ Fun fact: I spend ~5 hours daily improving my chess game  
 
-<div align="center">
+---
 
-### Show some ❤️ by starring some of the repositories!
+### Let's Connect
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/-Joseph%20Gitau-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josephgitau/)
+[![GitHub](https://img.shields.io/github/followers/josephgitau?label=Follow&style=social)](https://github.com/josephgitau)
+[![Portfolio](https://img.shields.io/badge/Portfolio-josephgitau.me-2648ff?style=flat-square&logo=google-chrome)](https://josephgitau.me/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=254704084626&text=Hello)
+
+---
+
+### Looking to Collaborate?
+
+I'm open to collaborating on **NLP**, **Speech Recognition**, and **ML projects**. Feel free to reach out!
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=josephgitau&show_icons=true&theme=dark&line_height=27" alt="Joseph's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephgitau&theme=dark&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">⭐ Star some repositories if you find them helpful!</p>
