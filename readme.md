@@ -13,6 +13,17 @@
 
 ---
 
+### Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
 ### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Joseph%20Gitau-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josephgitau/)
@@ -22,17 +33,14 @@
 
 ---
 
-### Looking to Collaborate?
-
-I'm open to collaborating on **NLP**, **Speech Recognition**, and **ML projects**. Feel free to reach out!
-
----
-
-### GitHub Stats
+### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josephgitau&show_icons=true&theme=dark&line_height=27" alt="Joseph's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephgitau&theme=dark&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephgitau&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josephgitau&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
 
 ---
