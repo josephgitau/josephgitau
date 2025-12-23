@@ -36,7 +36,7 @@
 ### GitHub Activity
 
 <p align="center">
-  <img src="![Trophy](https://github-profile-trophy.vercel.app/?username=josephgitau&theme=darkhub&margin-w=15)" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=josephgitau)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
