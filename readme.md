@@ -36,7 +36,9 @@
 ### GitHub Activity
 
 <p align="center">
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=josephgitau)](https://git.io/streak-stats)" alt="streak"/>
+  ```md
+  [![GitHub Streak](https://streak-stats.demolab.com?user=josephgitau)](https://git.io/streak-stats)
+  ```
 </p>
 
 <p align="center">
