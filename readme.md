@@ -35,11 +35,10 @@
 
 ### GitHub Activity
 
-<p align="center">
+
   ```md
   [![GitHub Streak](https://streak-stats.demolab.com?user=josephgitau)](https://git.io/streak-stats)
   ```
-</p>
 
 <p align="center">
   <img src="![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josephgitau&theme=github-dark)" alt="GitHub Profile Summary" />
