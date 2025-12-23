@@ -36,7 +36,7 @@
 ### GitHub Activity
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=josephgitau)](https://git.io/streak-stats)
+  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=josephgitau)](https://git.io/streak-stats)" alt="streak"/>
 </p>
 
 <p align="center">
