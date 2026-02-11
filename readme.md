@@ -32,6 +32,7 @@
   <a href="#-about-me">About</a> •
   <a href="#-my-core-competencies">Competencies</a> •
   <a href="#-tech-stack">Tech</a> •
+  <a href="#-flagship-project">Project</a> •
   <a href="#-github-activity">Activity</a> •
   <a href="#-lets-connect">Connect</a>
 </p>
@@ -91,6 +92,20 @@ I build practical, production-minded ML and data systems—from ingestion and tr
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Flagship Project
+
+### Barbados Traffic Analysis Challenge
+A complete, competition-style ML project focused on **predicting and analyzing traffic patterns** using real-world data. The repo is structured like a production pipeline—covering data ingestion, cleaning, feature engineering, model training, and evaluation—so results are reproducible and easy to extend.
+
+- **End-to-end workflow:** raw data → engineered features → trained models → evaluated results
+- **Strong data engineering foundation:** clean, modular notebooks/scripts and a repeatable pipeline
+- **ML + analytics depth:** combines modeling with exploratory analysis to surface actionable traffic insights
+- **Reproducible setup:** clear structure and documentation to rerun experiments and iterate quickly
+
+🔗 Repo: https://github.com/josephgitau/Barbados-Traffic-Analysis-Challenge
 
 ---
 
