@@ -97,15 +97,21 @@ I build practical, production-minded ML and data systems—from ingestion and tr
 
 ## 🚀 Flagship Project
 
-### Barbados Traffic Analysis Challenge
-A complete, competition-style ML project focused on **predicting and analyzing traffic patterns** using real-world data. The repo is structured like a production pipeline—covering data ingestion, cleaning, feature engineering, model training, and evaluation—so results are reproducible and easy to extend.
+### Barbados Lands and Surveys Plot Automation Challenge
+End-to-end **geospatial digitization pipeline** for cadastral survey maps: **parcel boundary detection + polygon extraction + OCR** to produce structured, searchable outputs ready for indexing and downstream GIS use.
 
-- **End-to-end workflow:** raw data → engineered features → trained models → evaluated results
-- **Strong data engineering foundation:** clean, modular notebooks/scripts and a repeatable pipeline
-- **ML + analytics depth:** combines modeling with exploratory analysis to surface actionable traffic insights
-- **Reproducible setup:** clear structure and documentation to rerun experiments and iterate quickly
+**What makes it strong**
+- **Boundary segmentation:** UNet++ with **EfficientNet-B7** encoder for precise parcel detection from raster maps.
+- **Production-grade post-processing:** polygon cleaning (hole removal, simplification, smoothing) to generate valid geometries for submission/GIS workflows.
+- **Robust OCR strategy:** uses **Qwen3-VL-30B** (vision-language) for noisy map text—leveraging zero/few-shot generalization instead of risky fine-tuning on heterogeneous labels.
+- **Reproducible deliverables:** training + inference notebooks, checkpoints, and final merged outputs (polygons + OCR text).
 
-🔗 Repo: https://github.com/josephgitau/Barbados-Traffic-Analysis-Challenge
+**Results**
+- **Leaderboard:** Public **0.965006861** • Private **0.970242006**
+- **Runtime (typical):** training ~5h30, inference+OCR ~40m (end-to-end ~6h30 on suitable Colab GPUs)
+
+🔗 Repo: https://github.com/josephgitau/Barbados-Lands-and-Surveys-Plot-Automation-Challenge  
+📒 Data prep notebook: https://colab.research.google.com/drive/14nPASQP6cgCVI7arl8D_sQPInCbogRgd?usp=sharing
 
 ---
 
