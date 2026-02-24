@@ -55,20 +55,20 @@
 <table>
 <tr>
 <td width="250" align="center">
-  <img src="https://github.com/josephgitau.png?size=200" width="200" style="border-radius:50%;"/>
+  <img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/user/avatar/27463/w400_b916a636-41df-4c5a-80e7-2adfccfe43de.jpeg" width="200" style="border-radius:50%;"/>
 </td>
 <td>
 
-![Rank](https://img.shields.io/badge/🏆%20Rank-updating...-blueviolet?style=for-the-badge)<br>
-![Points](https://img.shields.io/badge/⭐%20Points-updating...-ff69b4?style=for-the-badge)<br>
-![Best Rank](https://img.shields.io/badge/🥇%20Best%20Rank-updating...-brightgreen?style=for-the-badge)<br>
+![Rank](https://img.shields.io/badge/🏆%20Rank-28-blueviolet?style=for-the-badge)<br>
+![Points](https://img.shields.io/badge/⭐%20Points-8253-ff69b4?style=for-the-badge)<br>
+![Best Rank](https://img.shields.io/badge/🥇%20Best%20Rank-26-brightgreen?style=for-the-badge)<br>
 ![Country](https://img.shields.io/badge/🌍%20Country-Kenya-orange?style=for-the-badge)<br><br>
 
 <!-- 🏅 Medals -->
 <div style="display:flex;justify-content:center;gap:25px;margin-top:15px;">
-  <img src="https://img.shields.io/badge/🥇%20Gold-updating...-FFD700?style=for-the-badge" height="60"/>
-  <img src="https://img.shields.io/badge/🥈%20Silver-updating...-C0C0C0?style=for-the-badge" height="60"/>
-  <img src="https://img.shields.io/badge/🥉%20Bronze-updating...-CD7F32?style=for-the-badge" height="60"/>
+  <img src="https://img.shields.io/badge/🥇%20Gold-3-FFD700?style=for-the-badge" height="60"/>
+  <img src="https://img.shields.io/badge/🥈%20Silver-4-C0C0C0?style=for-the-badge" height="60"/>
+  <img src="https://img.shields.io/badge/🥉%20Bronze-7-CD7F32?style=for-the-badge" height="60"/>
 </div>
 
 </td>
@@ -79,7 +79,7 @@
 
 🔗 **[View full profile on Zindi →](https://zindi.africa/users/Joseph_gitau)**
 
-_Last updated: auto-updated daily via GitHub Actions_
+_Last updated: 2026-02-24 06:22:39 UTC_
 
 </div>
 
