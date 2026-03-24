@@ -59,15 +59,15 @@
 </td>
 <td>
 
-![Rank](https://img.shields.io/badge/🏆%20Rank-20-blueviolet?style=for-the-badge)<br>
-![Points](https://img.shields.io/badge/⭐%20Points-10803-ff69b4?style=for-the-badge)<br>
+![Rank](https://img.shields.io/badge/🏆%20Rank-18-blueviolet?style=for-the-badge)<br>
+![Points](https://img.shields.io/badge/⭐%20Points-10927-ff69b4?style=for-the-badge)<br>
 ![Best Rank](https://img.shields.io/badge/🥇%20Best%20Rank-18-brightgreen?style=for-the-badge)<br>
 ![Country](https://img.shields.io/badge/🌍%20Country-Kenya-orange?style=for-the-badge)<br><br>
 
 <!-- 🏅 Medals -->
 <div style="display:flex;justify-content:center;gap:25px;margin-top:15px;">
   <img src="https://img.shields.io/badge/🥇%20Gold-4-FFD700?style=for-the-badge" height="60"/>
-  <img src="https://img.shields.io/badge/🥈%20Silver-4-C0C0C0?style=for-the-badge" height="60"/>
+  <img src="https://img.shields.io/badge/🥈%20Silver-5-C0C0C0?style=for-the-badge" height="60"/>
   <img src="https://img.shields.io/badge/🥉%20Bronze-8-CD7F32?style=for-the-badge" height="60"/>
 </div>
 
@@ -79,7 +79,7 @@
 
 🔗 **[View full profile on Zindi →](https://zindi.africa/users/Joseph_gitau)**
 
-_Last updated: 2026-03-23 07:04:40 UTC_
+_Last updated: 2026-03-24 06:59:05 UTC_
 
 </div>
 
