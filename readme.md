@@ -171,7 +171,6 @@ I build practical, production-minded ML and data systems — from ingestion and 
 | Competition | Platform | Position | Solution |
 |---|---|---|---|
 | **Barbados Lands & Surveys Plot Automation** | Zindi | 🏅 Top Finish | [Repo](https://github.com/josephgitau/Barbados-Lands-and-Surveys-Plot-Automation-Challenge) |
-| **UNIDO AfricaRice Quality Assessment** | Zindi | 🥉 7th Place | [Repo](https://github.com/josephgitau/UNIDO-Rice-Quality-Challenge-7th-place-solution-CN-Net) |
 
 🔗 **[See all competitions on Zindi →](https://zindi.africa/users/Joseph_gitau)**
 
@@ -213,16 +212,6 @@ End-to-end **geospatial digitization pipeline** for cadastral survey maps: **par
 📒 Data prep: [Open in Colab](https://colab.research.google.com/drive/14nPASQP6cgCVI7arl8D_sQPInCbogRgd?usp=sharing)
 
 ---
-
-### 🌾 UNIDO AfricaRice Quality Assessment — 7th Place Solution
-Multi-output regression solution predicting rice grain quality metrics from RGB images.
-
-**Approach**
-- Backbone: `convnext_large_mlp.clip_laion2b_soup_ft_in12k_in1k_384`
-- Loss: Huber Loss | Metric: R² (~0.89 on validation)
-- TTA + top-3 checkpoint ensembling for robust inference
-
-🔗 Repo: [josephgitau/UNIDO-Rice-Quality-Challenge-7th-place-solution-CN-Net](https://github.com/josephgitau/UNIDO-Rice-Quality-Challenge-7th-place-solution-CN-Net)
 
 ---
 
