@@ -55,12 +55,12 @@
 <table>
 <tr>
 <td width="250" align="center">
-  <img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/user/avatar/27463/w400_b916a636-41df-4c5a-80e7-2adfccfe43de.jpeg" width="200" style="border-radius:50%;"/>
+  <img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/user/avatar/27463/w400_6e6568c6-d4d1-433a-a53e-84d563cf404c.jpg" width="200" style="border-radius:50%;"/>
 </td>
 <td>
 
 ![Rank](https://img.shields.io/badge/🏆%20Rank-20-blueviolet?style=for-the-badge)<br>
-![Points](https://img.shields.io/badge/⭐%20Points-11536-ff69b4?style=for-the-badge)<br>
+![Points](https://img.shields.io/badge/⭐%20Points-11540-ff69b4?style=for-the-badge)<br>
 ![Best Rank](https://img.shields.io/badge/🥇%20Best%20Rank-18-brightgreen?style=for-the-badge)<br>
 ![Country](https://img.shields.io/badge/🌍%20Country-Kenya-orange?style=for-the-badge)<br><br>
 
@@ -79,7 +79,7 @@
 
 🔗 **[View full profile on Zindi →](https://zindi.africa/users/Joseph_gitau)**
 
-_Last updated: 2026-04-11 06:23:32 UTC_
+_Last updated: 2026-04-12 06:32:55 UTC_
 
 </div>
 
