@@ -226,9 +226,6 @@ NLP-powered bot that generates contextual stories based on detected sentiment.
 
 ## 📊 GitHub Dashboard
 
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josephgitau&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josephgitau&layout=compact&theme=tokyonight&hide_border=true)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=josephgitau&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=josephgitau&theme=tokyonight&row=1&column=7&no-frame=true)
