@@ -1,5 +1,5 @@
 import requests
-from datetime import datetime
+from datetime import UTC, datetime
 
 username = "Joseph_gitau"
 url = f"https://api.zindi.africa/v1/users/{username}"
@@ -49,7 +49,7 @@ stats_md = f"""
 
 🔗 **[View full profile on Zindi →](https://zindi.africa/users/Joseph_gitau)**
 
-_Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC_
+_Last updated: {datetime.now(UTC).strftime('%Y-%m-%d %H:%M:%S')} UTC_
 
 </div>
 """
@@ -67,4 +67,4 @@ new_readme = f"{before}{start_marker}\n{stats_md}\n{end_marker}{after}"
 with open("readme.md", "w", encoding="utf-8") as f:
     f.write(new_readme)
 
-print(f"✅ Zindi stats updated for {username} — Rank: {data['rank']}, Points: {data['points']}")
+print(f"Zindi stats updated for {username}: Rank {data['rank']}, Points {data['points']}")
