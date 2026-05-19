@@ -1,6 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00B4D8&height=180&section=header&text=Joseph%20Gitau&fontSize=44&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20Data%20Scientist%20%7C%20Zindi%20Competitor&descSize=18&descAlignY=58&fontColor=FFFFFF)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:00B4D8,100:111827&height=210&section=header&text=Joseph%20Gitau&fontSize=48&fontAlignY=34&desc=I%20turn%20messy%20African%20data%20into%20models,%20maps,%20and%20useful%20products&descSize=17&descAlignY=58&fontColor=FFFFFF)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=00B4D8&center=true&vCenter=true&width=850&lines=Machine+Learning+Engineer;Zindi+Top+Competitor;Geospatial+AI+Builder;Data+Products+%2B+Full-Stack+ML;Building+from+Nairobi%2C+Kenya)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-josephgitau.me-0A66C2?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://josephgitau.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Gitau-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephgitau/)
@@ -9,16 +11,45 @@
 
 </div>
 
-## Hi, I'm Joseph
+## Signal
 
-I build practical machine learning and data products, with a focus on competition-grade modeling, geospatial workflows, real estate analytics, and tools that turn messy data into usable systems.
+I am a machine learning engineer and data scientist building from Nairobi, Kenya. My work lives where real-world data gets difficult: noisy property listings, cadastral maps, low-resource language tasks, competition datasets, and product interfaces that need to make model output understandable.
 
-Based in Nairobi, Kenya, I work across the full ML lifecycle: data collection, feature engineering, model development, evaluation, deployment, and product integration.
+I like the whole system, not just the notebook: scrape the data, clean the edges, build the model, validate hard, ship the API, and make the result useful to someone.
 
-- Building data products with **Python**, **FastAPI**, **Next.js**, **TypeScript**, and **Supabase**
-- Competing on **Zindi**, especially in NLP, computer vision, geospatial AI, and tabular ML
-- Exploring **LLM fine-tuning**, **speech recognition**, and AI systems for African languages and local datasets
-- Sharing open-source data science work and tutorials through **[africdsa.com](https://africdsa.com/)**
+```txt
+current_mode:
+  build:     Nairobi real estate intelligence
+  compete:   Zindi ML challenges
+  explore:   speech, LLMs, OCR, geospatial AI
+  ship_with: Python, FastAPI, Next.js, Supabase
+```
+
+<table>
+<tr>
+<td width="33%">
+
+**Competition Brain**
+
+Validation, leakage checks, feature engineering, ensembles, and leaderboard discipline.
+
+</td>
+<td width="33%">
+
+**Product Hands**
+
+APIs, dashboards, scheduled pipelines, and interfaces that make data products usable.
+
+</td>
+<td width="33%">
+
+**Local Lens**
+
+AI for African housing, maps, language, agriculture, and public-interest datasets.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -55,7 +86,7 @@ Based in Nairobi, Kenya, I work across the full ML lifecycle: data collection, f
 
 🔗 **[View full profile on Zindi →](https://zindi.africa/users/Joseph_gitau)**
 
-_Last updated: 2026-05-19 12:52:08 UTC_
+_Last updated: 2026-05-19 16:25:25 UTC_
 
 </div>
 
@@ -63,48 +94,64 @@ _Last updated: 2026-05-19 12:52:08 UTC_
 
 ---
 
-## What I Work On
+## Build Map
 
-| Area | What I do |
+| Track | How I use it |
 | --- | --- |
-| **Machine Learning** | Modeling, validation, feature engineering, experimentation, and competition pipelines |
-| **Data Engineering** | Scraping, ETL, data cleaning, scheduled workflows, and analytics-ready datasets |
-| **Geospatial AI** | Map digitization, segmentation, OCR, parcel extraction, and location-based analysis |
-| **Data Products** | Dashboards, APIs, and full-stack tools that make models useful outside notebooks |
+| **Models** | Train, validate, compare, and explain ML systems for messy tabular, text, vision, and map data |
+| **Pipelines** | Scrape, clean, enrich, schedule, and store analytics-ready datasets |
+| **Maps** | Extract parcels, detect boundaries, run OCR, and turn geospatial files into usable layers |
+| **Products** | Wrap models in APIs, dashboards, and workflows people can actually use |
 
 ---
 
-## Featured Work
+## Field Projects
 
-### Nairobi Property Pricing Platform
+### 01. Nairobi Property Pricing Platform
 
-Full-stack real estate intelligence platform for Nairobi housing data, built from collection to dashboard.
+An end-to-end housing intelligence system for Nairobi. It turns raw listings into structured market signals: prices, bedroom counts, neighborhoods, affordability bands, and dashboard-ready summaries.
 
-- Scrapes property listings and stores structured records in Supabase
-- Parses messy listing titles and URLs into usable features such as bedroom counts
-- Computes affordability metrics, price bands, and location-level summaries
-- Serves insights through a Next.js and TypeScript frontend backed by a Python data pipeline
+**Pipeline:** listing scrape -> parsing -> Supabase -> analytics -> dashboard<br>
+**Stack:** Python, Supabase, Next.js, TypeScript, GitHub Actions<br>
+**Why it matters:** housing data is scattered and inconsistent; the product turns it into something searchable, comparable, and decision-ready.
 
 [Backend](https://github.com/josephgitau/nairobi_property_pricing) · [Frontend](https://github.com/josephgitau/nairobi-property-pricing-frontend) · [Live site](https://josephgitau.me/)
 
-### Barbados Lands and Surveys Plot Automation Challenge
+### 02. Barbados Lands and Surveys Plot Automation Challenge
 
-Geospatial digitization pipeline for cadastral maps, combining parcel boundary detection, polygon extraction, and OCR.
+A geospatial AI pipeline for cadastral survey maps, built to move from scanned map imagery to structured polygon and text outputs.
 
-- Trained segmentation models for parcel boundary detection from raster survey maps
-- Cleaned and simplified polygon outputs into valid GIS-ready geometries
-- Used vision-language OCR methods for noisy map labels and survey text
-- Produced reproducible notebooks, checkpoints, and merged polygon/text outputs
-
+**Pipeline:** raster maps -> boundary segmentation -> polygon cleaning -> OCR -> merged GIS output<br>
+**Modeling:** segmentation for parcels, post-processing for valid geometries, OCR for map labels<br>
 **Result:** Public score `0.965006861` · Private score `0.970242006`
 
 [Repository](https://github.com/josephgitau/Barbados-Lands-and-Surveys-Plot-Automation-Challenge) · [Data prep notebook](https://colab.research.google.com/drive/14nPASQP6cgCVI7arl8D_sQPInCbogRgd?usp=sharing)
 
-### Sentiment Story Generation Bot
+### 03. Sentiment Story Generation Bot
 
-NLP project that detects sentiment and generates contextual story responses from the detected emotional signal.
+An NLP experiment that detects emotional signal from text and uses it to generate contextual story responses.
+
+**Idea:** sentiment -> context -> generated story<br>
+**Focus:** language understanding, generation, and interaction design
 
 [Repository](https://github.com/josephgitau/Sentiment_Story_Generation_Bot)
+
+---
+
+## Operating System
+
+```txt
+input:   raw datasets, maps, listings, language, competition briefs
+process: clean -> validate -> model -> evaluate -> package
+output:  notebooks, APIs, dashboards, repositories, field-ready insights
+```
+
+| I care about | Because |
+| --- | --- |
+| **Strong baselines** | They expose whether the complex idea is actually useful |
+| **Validation design** | A good score only matters when it survives reality |
+| **Data quality** | Most model problems start before training begins |
+| **Shipping** | A useful model needs a path into a workflow |
 
 ---
 
@@ -142,12 +189,12 @@ NLP project that detects sentiment and generates contextual story responses from
 
 ---
 
-## Current Focus
+## Current Missions
 
-- Improving the Nairobi property analytics pipeline and dashboard
-- Competing in Zindi challenges that require strong validation and feature engineering
-- Building reusable workflows for geospatial ML, OCR, and document understanding
-- Learning deeper speech and language modeling for low-resource African contexts
+- Make Nairobi property data easier to search, compare, and understand
+- Build stronger competition pipelines for NLP, vision, geospatial, and tabular ML
+- Package geospatial OCR and document-understanding workflows into reusable tools
+- Push deeper into speech and language systems for low-resource African contexts
 
 ---
 
@@ -164,8 +211,8 @@ NLP project that detects sentiment and generates contextual story responses from
 
 <div align="center">
 
-**Build from data. Compete with purpose. Ship useful systems.**
+**Messy data in. Useful systems out.**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00B4D8&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:00B4D8,100:0A66C2&height=110&section=footer)
 
 </div>
