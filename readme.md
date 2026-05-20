@@ -182,6 +182,7 @@ output:  notebooks, APIs, dashboards, repositories, field-ready insights
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=josephgitau&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=josephgitau&theme=dark&short_numbers=true)](https://git.io/streak-stats)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josephgitau&theme=github-dark&hide_border=true)
 
