@@ -67,7 +67,7 @@ AI for African housing, maps, language, agriculture, and public-interest dataset
 <td>
 
 ![Rank](https://img.shields.io/badge/🏆%20Rank-20-blueviolet?style=for-the-badge)<br>
-![Points](https://img.shields.io/badge/⭐%20Points-10698-ff69b4?style=for-the-badge)<br>
+![Points](https://img.shields.io/badge/⭐%20Points-10679-ff69b4?style=for-the-badge)<br>
 ![Best Rank](https://img.shields.io/badge/🥇%20Best%20Rank-18-brightgreen?style=for-the-badge)<br>
 ![Country](https://img.shields.io/badge/🌍%20Country-Kenya-orange?style=for-the-badge)<br><br>
 
@@ -86,7 +86,7 @@ AI for African housing, maps, language, agriculture, and public-interest dataset
 
 🔗 **[View full profile on Zindi →](https://zindi.africa/users/Joseph_gitau)**
 
-_Last updated: 2026-05-25 09:57:08 UTC_
+_Last updated: 2026-05-26 09:43:34 UTC_
 
 </div>
 
