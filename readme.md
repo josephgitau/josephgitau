@@ -61,26 +61,47 @@ AI for African housing, maps, language, agriculture, and public-interest dataset
 
 ## 🏁 Zindi Leaderboard Snapshot
 
-<p><sub>All-Time rewards long-term consistency. Seasonal shows current form and resets annually.</sub></p>
+<p><sub>Two leaderboards. One competitive dashboard.</sub></p>
 
-<img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/user/avatar/27463/thumb_6e6568c6-d4d1-433a-a53e-84d563cf404c.jpg" width="110" alt="Joseph Gitau on Zindi"/>
+<img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/user/avatar/27463/thumb_6e6568c6-d4d1-433a-a53e-84d563cf404c.jpg" width="130" alt="Joseph Gitau on Zindi"/><br>
+<strong>Joseph_gitau</strong> · 🇰🇪 Kenya
 
 <table>
-<thead>
 <tr><th>Leaderboard</th><th>Global</th><th>🇰🇪 Kenya rank</th><th>Points</th></tr>
-</thead>
-<tbody>
-<tr><td><strong>🏆 All-Time</strong></td><td><strong>#16</strong></td><td><strong>#6</strong></td><td>10,080</td></tr>
-<tr><td><strong>⚡ 2026 Season</strong></td><td><strong>#55</strong></td><td><strong>#18</strong></td><td>3,441</td></tr>
-</tbody>
+<tr>
+<td align="center" width="50%">
+<a href="https://zindi.world/community?leaderboard=all-time&country=KE"><img src="https://img.shields.io/badge/ALL--TIME-LONG%20GAME-0A66C2?style=for-the-badge" alt="All-Time leaderboard"/></a><br><br>
+<img src="https://img.shields.io/badge/GLOBAL-%2316-0A66C2?style=for-the-badge" alt="All-Time global rank"/><br>
+<img src="https://img.shields.io/badge/Kenya-%236-00B4D8?style=for-the-badge" alt="All-Time country rank"/><br>
+<img src="https://img.shields.io/badge/POINTS-10%2C080-111827?style=for-the-badge" alt="All-Time points"/>
+</td>
+<td align="center" width="50%">
+<a href="https://zindi.world/community?leaderboard=2026%20Season&country=KE"><img src="https://img.shields.io/badge/2026%20Season-CURRENT%20FORM-6F4BDD?style=for-the-badge" alt="Seasonal leaderboard"/></a><br><br>
+<img src="https://img.shields.io/badge/GLOBAL-%2355-6F4BDD?style=for-the-badge" alt="Seasonal global rank"/><br>
+<img src="https://img.shields.io/badge/Kenya-%2318-F28C28?style=for-the-badge" alt="Seasonal country rank"/><br>
+<img src="https://img.shields.io/badge/POINTS-3%2C441-00A86B?style=for-the-badge" alt="Seasonal points"/>
+</td>
+</tr>
 </table>
 
-<p>🏅 <strong>Career medals:</strong> 5 gold · 8 silver · 9 bronze</p>
-<p><strong>Best global rank:</strong> #16 · <strong>Activity:</strong> 83 competitions · 16 hackathons · 1,057 submissions</p>
+<p>
+<img src="https://img.shields.io/badge/GOLD-5-FFD700?style=for-the-badge" alt="Gold medals"/>
+<img src="https://img.shields.io/badge/SILVER-8-A9A9A9?style=for-the-badge" alt="Silver medals"/>
+<img src="https://img.shields.io/badge/BRONZE-9-CD7F32?style=for-the-badge" alt="Bronze medals"/>
+</p>
 
-<p><a href="https://zindi.world/community?leaderboard=all-time&country=KE">All-Time leaderboard</a> · <a href="https://zindi.world/community?leaderboard=2026%20Season&country=KE">2026 Season leaderboard</a> · <a href="https://zindi.world/users/Joseph_gitau">Zindi profile</a> · <a href="https://api.zindi.world/v1/seasonal_leaderboard_rankings/zeFmdd/share">Share 2026 Season rank</a></p>
+<p>
+<img src="https://img.shields.io/badge/BEST%20RANK-%2316-228B22?style=for-the-badge" alt="Best global rank"/>
+<img src="https://img.shields.io/badge/COMPETITIONS-83-0088CC?style=for-the-badge" alt="Competitions"/>
+<img src="https://img.shields.io/badge/SUBMISSIONS-1%2C057-111827?style=for-the-badge" alt="Submissions"/>
+</p>
 
-<sub>Snapshot refreshed: 2026-09-17 06:40 UTC · Country: Kenya</sub>
+<p><a href="https://zindi.world/community?leaderboard=all-time&country=KE"><img src="https://img.shields.io/badge/VIEW-ALL--TIME-0A66C2?style=for-the-badge" alt="View All-Time leaderboard"/></a>
+<a href="https://zindi.world/community?leaderboard=2026%20Season&country=KE"><img src="https://img.shields.io/badge/VIEW-2026%20Season-6F4BDD?style=for-the-badge" alt="View seasonal leaderboard"/></a>
+<a href="https://zindi.world/users/Joseph_gitau"><img src="https://img.shields.io/badge/OPEN-ZINDI%20PROFILE-F28C28?style=for-the-badge" alt="Open Zindi profile"/></a>
+<a href="https://api.zindi.world/v1/seasonal_leaderboard_rankings/zeFmdd/share"><img src="https://img.shields.io/badge/SHARE-2026%20Season%20RANK-6F4BDD?style=for-the-badge" alt="Share 2026 Season rank"/></a></p>
+
+<sub>Snapshot refreshed: 2026-09-17 06:45 UTC · Country: Kenya</sub>
 
 </div>
 
@@ -177,8 +198,7 @@ output:  notebooks, APIs, dashboards, repositories, field-ready insights
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=josephgitau&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josephgitau&theme=github-dark&hide_border=true)
+<a href="https://github.com/josephgitau"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josephgitau&theme=github_dark" alt="GitHub contribution summary"/></a>
 
 </div>
 

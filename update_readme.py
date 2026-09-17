@@ -50,6 +50,17 @@ def format_rank(value):
     return "—" if value is None else f"#{int(value):,}"
 
 
+def badge_part(value):
+    # Shields uses a double hyphen to preserve hyphens inside a label or value.
+    return quote(str(value), safe="").replace("-", "--")
+
+
+def badge(label, value, color):
+    label_text = badge_part(label)
+    value_text = badge_part(value)
+    return f"https://img.shields.io/badge/{label_text}-{value_text}-{color}?style=for-the-badge"
+
+
 profile = find_user("legacy")
 if profile is None:
     raise RuntimeError(f"Could not find {USERNAME} on the Zindi leaderboard API")
@@ -57,11 +68,11 @@ if profile is None:
 profile_detail = get_json(f"/users/{USERNAME}").get("data", {})
 
 country = profile.get("country") or {}
-country_name = country.get("name") or "Kenya"
-country_iso = (country.get("iso_code") or profile.get("countrycode") or "KE").upper()
+country_name_raw = country.get("name") or "Kenya"
+country_iso_raw = (country.get("iso_code") or profile.get("countrycode") or "KE").upper()
 
 # The country filter makes the current API include the user's country rank.
-all_time = find_user("legacy", country_name) or profile
+all_time = find_user("legacy", country_name_raw) or profile
 
 season_payload = get_json("/seasonal_leaderboards")
 season_key = season_payload.get("meta", {}).get("default_leaderboard")
@@ -73,7 +84,7 @@ if season is None and season_rows:
 if not season_key:
     raise RuntimeError("Could not find the active Zindi seasonal leaderboard")
 
-season_name = (season or {}).get("name") or season_key
+season_name_raw = (season or {}).get("name") or season_key
 seasonal_payload = get_json(
     f"/seasonal_leaderboards/{quote(season_key, safe='')}/seasonal_leaderboard_rankings",
     {"page": 0, "per_page": 50, "query": USERNAME},
@@ -97,18 +108,19 @@ avatar = (
     or "https://github.com/josephgitau.png?size=200"
 )
 avatar = html.escape(avatar, quote=True)
-country_name = html.escape(country_name)
+country_name = html.escape(country_name_raw)
 country_flag = html.escape(country.get("emoji_flag") or "🌍")
-country_iso = html.escape(country_iso)
-season_name = html.escape(season_name)
+country_iso = html.escape(country_iso_raw)
+season_name = html.escape(season_name_raw)
 season_url = (
     f"{LEADERBOARD_URL}?leaderboard={quote(str(season_key), safe='')}"
-    f"&country={quote(country_iso, safe='')}"
+    f"&country={quote(country_iso_raw, safe='')}"
 )
-all_time_url = f"{LEADERBOARD_URL}?leaderboard=all-time&country={quote(country_iso, safe='')}"
+all_time_url = f"{LEADERBOARD_URL}?leaderboard=all-time&country={quote(country_iso_raw, safe='')}"
 season_share_url = seasonal.get("rank_share_url")
 share_link = (
-    f' · <a href="{html.escape(season_share_url, quote=True)}">Share {season_name} rank</a>'
+    f'<a href="{html.escape(season_share_url, quote=True)}">'
+    f'<img src="{badge("SHARE", f"{season_name_raw} RANK", "6F4BDD")}" alt="Share {season_name} rank"/></a>'
     if season_share_url
     else ""
 )
@@ -127,24 +139,45 @@ stats_md = f"""
 
 ## 🏁 Zindi Leaderboard Snapshot
 
-<p><sub>All-Time rewards long-term consistency. Seasonal shows current form and resets annually.</sub></p>
+<p><sub>Two leaderboards. One competitive dashboard.</sub></p>
 
-<img src="{avatar}" width="110" alt="Joseph Gitau on Zindi"/>
+<img src="{avatar}" width="130" alt="Joseph Gitau on Zindi"/><br>
+<strong>{USERNAME}</strong> · {country_flag} {country_name}
 
 <table>
-<thead>
 <tr><th>Leaderboard</th><th>Global</th><th>{country_flag} {country_name} rank</th><th>Points</th></tr>
-</thead>
-<tbody>
-<tr><td><strong>🏆 All-Time</strong></td><td><strong>{format_rank(all_time.get("rank"))}</strong></td><td><strong>{format_rank(all_time.get("country_rank"))}</strong></td><td>{format_number(all_time.get("points"))}</td></tr>
-<tr><td><strong>⚡ {season_name}</strong></td><td><strong>{format_rank(seasonal.get("rank"))}</strong></td><td><strong>{format_rank(seasonal.get("country_rank"))}</strong></td><td>{format_number(seasonal.get("points"))}</td></tr>
-</tbody>
+<tr>
+<td align="center" width="50%">
+<a href="{all_time_url}"><img src="{badge("ALL-TIME", "LONG GAME", "0A66C2")}" alt="All-Time leaderboard"/></a><br><br>
+<img src="{badge("GLOBAL", format_rank(all_time.get("rank")), "0A66C2")}" alt="All-Time global rank"/><br>
+<img src="{badge(country_name_raw, format_rank(all_time.get("country_rank")), "00B4D8")}" alt="All-Time country rank"/><br>
+<img src="{badge("POINTS", format_number(all_time.get("points")), "111827")}" alt="All-Time points"/>
+</td>
+<td align="center" width="50%">
+<a href="{season_url}"><img src="{badge(season_name_raw, "CURRENT FORM", "6F4BDD")}" alt="Seasonal leaderboard"/></a><br><br>
+<img src="{badge("GLOBAL", format_rank(seasonal.get("rank")), "6F4BDD")}" alt="Seasonal global rank"/><br>
+<img src="{badge(country_name_raw, format_rank(seasonal.get("country_rank")), "F28C28")}" alt="Seasonal country rank"/><br>
+<img src="{badge("POINTS", format_number(seasonal.get("points")), "00A86B")}" alt="Seasonal points"/>
+</td>
+</tr>
 </table>
 
-<p>🏅 <strong>Career medals:</strong> {gold} gold · {silver} silver · {bronze} bronze</p>
-<p><strong>Best global rank:</strong> {best_rank} · <strong>Activity:</strong> {competitions} competitions · {hackathons} hackathons · {submissions} submissions</p>
+<p>
+<img src="{badge("GOLD", gold, "FFD700")}" alt="Gold medals"/>
+<img src="{badge("SILVER", silver, "A9A9A9")}" alt="Silver medals"/>
+<img src="{badge("BRONZE", bronze, "CD7F32")}" alt="Bronze medals"/>
+</p>
 
-<p><a href="{all_time_url}">All-Time leaderboard</a> · <a href="{season_url}">{season_name} leaderboard</a> · <a href="{PROFILE_URL}">Zindi profile</a>{share_link}</p>
+<p>
+<img src="{badge("BEST RANK", best_rank, "228B22")}" alt="Best global rank"/>
+<img src="{badge("COMPETITIONS", competitions, "0088CC")}" alt="Competitions"/>
+<img src="{badge("SUBMISSIONS", submissions, "111827")}" alt="Submissions"/>
+</p>
+
+<p><a href="{all_time_url}"><img src="{badge("VIEW", "ALL-TIME", "0A66C2")}" alt="View All-Time leaderboard"/></a>
+<a href="{season_url}"><img src="{badge("VIEW", season_name_raw, "6F4BDD")}" alt="View seasonal leaderboard"/></a>
+<a href="{PROFILE_URL}"><img src="{badge("OPEN", "ZINDI PROFILE", "F28C28")}" alt="Open Zindi profile"/></a>
+{share_link}</p>
 
 <sub>Snapshot refreshed: {updated_at} · Country: {country_name}</sub>
 
