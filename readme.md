@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-josephgitau.me-0A66C2?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://josephgitau.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Gitau-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephgitau/)
-[![Zindi](https://img.shields.io/badge/Zindi-Joseph__gitau-F28C28?style=for-the-badge)](https://zindi.africa/users/Joseph_gitau)
+[![Zindi](https://img.shields.io/badge/Zindi-Joseph__gitau-F28C28?style=for-the-badge)](https://zindi.world/users/Joseph_gitau)
 [![africdsa](https://img.shields.io/badge/africdsa.com-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://africdsa.com/)
 
 </div>
@@ -53,40 +53,34 @@ AI for African housing, maps, language, agriculture, and public-interest dataset
 
 ---
 
+> **Zindi platform update:** the leaderboard now has two views: **All-Time**, which rewards long-term consistency with slowly decaying points, and **Seasonal**, which resets annually without point decay. Both include country rankings. [Read the official announcement](https://www.linkedin.com/posts/zindi-africa_zindis-new-leaderboard-system-is-live-activity-7462124921201188864-lQJu)
+
 <!--ZINDI_STATS_START-->
 
 <div align="center">
 
-## 📈 Live Zindi Stats
+## 🏁 Zindi Leaderboard Snapshot
+
+<p><sub>All-Time rewards long-term consistency. Seasonal shows current form and resets annually.</sub></p>
+
+<img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/user/avatar/27463/thumb_6e6568c6-d4d1-433a-a53e-84d563cf404c.jpg" width="110" alt="Joseph Gitau on Zindi"/>
 
 <table>
-<tr>
-<td width="250" align="center">
-  <img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/user/avatar/27463/w400_6e6568c6-d4d1-433a-a53e-84d563cf404c.jpg" width="200" style="border-radius:50%;"/>
-</td>
-<td>
-
-![Rank](https://img.shields.io/badge/🏆%20Rank-20-blueviolet?style=for-the-badge)<br>
-![Points](https://img.shields.io/badge/⭐%20Points-10831-ff69b4?style=for-the-badge)<br>
-![Best Rank](https://img.shields.io/badge/🥇%20Best%20Rank-18-brightgreen?style=for-the-badge)<br>
-![Country](https://img.shields.io/badge/🌍%20Country-Kenya-orange?style=for-the-badge)<br><br>
-
-<!-- 🏅 Medals -->
-<div style="display:flex;justify-content:center;gap:25px;margin-top:15px;">
-  <img src="https://img.shields.io/badge/🥇%20Gold-4-FFD700?style=for-the-badge" height="60"/>
-  <img src="https://img.shields.io/badge/🥈%20Silver-6-C0C0C0?style=for-the-badge" height="60"/>
-  <img src="https://img.shields.io/badge/🥉%20Bronze-8-CD7F32?style=for-the-badge" height="60"/>
-</div>
-
-</td>
-</tr>
+<thead>
+<tr><th>Leaderboard</th><th>Global</th><th>🇰🇪 Kenya rank</th><th>Points</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>🏆 All-Time</strong></td><td><strong>#16</strong></td><td><strong>#6</strong></td><td>10,080</td></tr>
+<tr><td><strong>⚡ 2026 Season</strong></td><td><strong>#55</strong></td><td><strong>#18</strong></td><td>3,441</td></tr>
+</tbody>
 </table>
 
-<br>
+<p>🏅 <strong>Career medals:</strong> 5 gold · 8 silver · 9 bronze</p>
+<p><strong>Best global rank:</strong> #16 · <strong>Activity:</strong> 83 competitions · 16 hackathons · 1,057 submissions</p>
 
-🔗 **[View full profile on Zindi →](https://zindi.africa/users/Joseph_gitau)**
+<p><a href="https://zindi.world/community?leaderboard=all-time&country=KE">All-Time leaderboard</a> · <a href="https://zindi.world/community?leaderboard=2026%20Season&country=KE">2026 Season leaderboard</a> · <a href="https://zindi.world/users/Joseph_gitau">Zindi profile</a> · <a href="https://api.zindi.world/v1/seasonal_leaderboard_rankings/zeFmdd/share">Share 2026 Season rank</a></p>
 
-_Last updated: 2026-05-19 16:25:25 UTC_
+<sub>Snapshot refreshed: 2026-09-17 06:36 UTC · Country: Kenya</sub>
 
 </div>
 
@@ -204,7 +198,7 @@ output:  notebooks, APIs, dashboards, repositories, field-ready insights
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-josephgitau.me-0A66C2?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://josephgitau.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Gitau-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephgitau/)
-[![Zindi](https://img.shields.io/badge/Zindi-Joseph__gitau-F28C28?style=for-the-badge)](https://zindi.africa/users/Joseph_gitau)
+[![Zindi](https://img.shields.io/badge/Zindi-Joseph__gitau-F28C28?style=for-the-badge)](https://zindi.world/users/Joseph_gitau)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=254704084626&text=Hello)
 
 </div>

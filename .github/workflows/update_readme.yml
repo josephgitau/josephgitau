@@ -1,4 +1,4 @@
-name: Update Zindi Stats
+name: Update Zindi Leaderboards
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:        # allows manual trigger from GitHub UI
 
 jobs:
-  update-readme:
+  update-leaderboards:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run update script
+      - name: Refresh README leaderboard snapshot
         run: python update_readme.py
 
       - name: Commit & push if changed
