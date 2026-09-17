@@ -80,7 +80,7 @@ AI for African housing, maps, language, agriculture, and public-interest dataset
 
 <p><a href="https://zindi.world/community?leaderboard=all-time&country=KE">All-Time leaderboard</a> · <a href="https://zindi.world/community?leaderboard=2026%20Season&country=KE">2026 Season leaderboard</a> · <a href="https://zindi.world/users/Joseph_gitau">Zindi profile</a> · <a href="https://api.zindi.world/v1/seasonal_leaderboard_rankings/zeFmdd/share">Share 2026 Season rank</a></p>
 
-<sub>Snapshot refreshed: 2026-09-17 06:36 UTC · Country: Kenya</sub>
+<sub>Snapshot refreshed: 2026-09-17 06:40 UTC · Country: Kenya</sub>
 
 </div>
 
@@ -176,6 +176,7 @@ output:  notebooks, APIs, dashboards, repositories, field-ready insights
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=josephgitau&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josephgitau&theme=github-dark&hide_border=true)
 
