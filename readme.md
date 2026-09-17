@@ -125,7 +125,7 @@ AI for African housing, maps, language, agriculture, and public-interest dataset
 <a href="https://zindi.world/users/Joseph_gitau"><img src="https://img.shields.io/badge/OPEN-ZINDI%20PROFILE-F28C28?style=for-the-badge" alt="Open Zindi profile"/></a>
 <a href="https://api.zindi.world/v1/seasonal_leaderboard_rankings/zeFmdd/share"><img src="https://img.shields.io/badge/SHARE-2026%20Season%20RANK-6F4BDD?style=for-the-badge" alt="Share 2026 Season rank"/></a></p>
 
-<sub>Snapshot refreshed: 2026-09-17 07:18 UTC · Country: Kenya</sub>
+<sub>Snapshot refreshed: 2026-09-17 10:51 UTC · Country: Kenya</sub>
 
 </div>
 
