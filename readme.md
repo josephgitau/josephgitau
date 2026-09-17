@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=00B4D8&center=true&vCenter=true&width=850&lines=Machine+Learning+Engineer;Zindi+Top+Competitor;Geospatial+AI+Builder;Data+Products+%2B+Full-Stack+ML;Building+from+Nairobi%2C+Kenya)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-josephgitau.me-0A66C2?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://josephgitau.me/)
+[![Nairobi Live Demo](https://img.shields.io/badge/Live%20Product-Nairobi%20Property%20Intel-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://nairobi-property-pricing-frontend.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Gitau-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephgitau/)
 [![Zindi](https://img.shields.io/badge/Zindi-Joseph__gitau-F28C28?style=for-the-badge)](https://zindi.world/users/Joseph_gitau)
 [![africdsa](https://img.shields.io/badge/africdsa.com-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://africdsa.com/)
@@ -24,6 +24,30 @@ current_mode:
   explore:   speech, LLMs, OCR, geospatial AI
   ship_with: Python, FastAPI, Next.js, Supabase
 ```
+
+## Currently
+
+<table>
+<tr>
+<td width="33%" align="center">
+<sub>BUILDING</sub><br>
+<a href="https://nairobi-property-pricing-frontend.vercel.app/"><strong>Nairobi Property Intel</strong></a><br>
+<sub>housing data into decisions</sub>
+</td>
+<td width="33%" align="center">
+<sub>COMPETING</sub><br>
+<a href="https://zindi.world/users/Joseph_gitau"><strong>Zindi ML challenges</strong></a><br>
+<sub>vision, NLP, and tabular systems</sub>
+</td>
+<td width="33%" align="center">
+<sub>EXPLORING</sub><br>
+<strong>Speech + geospatial AI</strong><br>
+<sub>low-resource, field-ready models</sub>
+</td>
+</tr>
+</table>
+
+## How I Work
 
 <table>
 <tr>
@@ -101,7 +125,7 @@ AI for African housing, maps, language, agriculture, and public-interest dataset
 <a href="https://zindi.world/users/Joseph_gitau"><img src="https://img.shields.io/badge/OPEN-ZINDI%20PROFILE-F28C28?style=for-the-badge" alt="Open Zindi profile"/></a>
 <a href="https://api.zindi.world/v1/seasonal_leaderboard_rankings/zeFmdd/share"><img src="https://img.shields.io/badge/SHARE-2026%20Season%20RANK-6F4BDD?style=for-the-badge" alt="Share 2026 Season rank"/></a></p>
 
-<sub>Snapshot refreshed: 2026-09-17 06:45 UTC · Country: Kenya</sub>
+<sub>Snapshot refreshed: 2026-09-17 07:18 UTC · Country: Kenya</sub>
 
 </div>
 
@@ -124,32 +148,44 @@ AI for African housing, maps, language, agriculture, and public-interest dataset
 
 ### 01. Nairobi Property Pricing Platform
 
-An end-to-end housing intelligence system for Nairobi. It turns raw listings into structured market signals: prices, bedroom counts, neighborhoods, affordability bands, and dashboard-ready summaries.
+An end-to-end housing intelligence system for Nairobi. It turns daily-scraped listings into structured market signals: prices, bedroom counts, neighborhoods, affordability bands, deals, and dashboard-ready summaries.
+
+<a href="https://nairobi-property-pricing-frontend.vercel.app/"><img src="https://raw.githubusercontent.com/mainamuragev/nairobi_property_pricing/main/docs/images/affordability_map.png" alt="Nairobi affordability map" width="760"></a>
 
 **Pipeline:** listing scrape -> parsing -> Supabase -> analytics -> dashboard<br>
 **Stack:** Python, Supabase, Next.js, TypeScript, GitHub Actions<br>
-**Why it matters:** housing data is scattered and inconsistent; the product turns it into something searchable, comparable, and decision-ready.
+**Product surface:** 59 tracked areas · affordability map · below-median deals · budget calculator · four-neighborhood comparison<br>
+**Proof point:** the dashboard uses one-hour revalidation so the public surface stays close to the latest pipeline data.
 
-[Backend](https://github.com/josephgitau/nairobi_property_pricing) · [Frontend](https://github.com/josephgitau/nairobi-property-pricing-frontend) · [Live site](https://josephgitau.me/)
+[Backend](https://github.com/josephgitau/nairobi_property_pricing) · [Frontend](https://github.com/josephgitau/nairobi-property-pricing-frontend) · [Live demo](https://nairobi-property-pricing-frontend.vercel.app/)
 
 ### 02. Barbados Lands and Surveys Plot Automation Challenge
 
 A geospatial AI pipeline for cadastral survey maps, built to move from scanned map imagery to structured polygon and text outputs.
 
 **Pipeline:** raster maps -> boundary segmentation -> polygon cleaning -> OCR -> merged GIS output<br>
-**Modeling:** segmentation for parcels, post-processing for valid geometries, OCR for map labels<br>
+**Modeling:** UNet++ with EfficientNet-B7 for parcel boundaries; Qwen3-VL for map text and metadata<br>
+**Scale:** approximately 700 training plans and 300 test plans<br>
 **Result:** Public score `0.965006861` · Private score `0.970242006`
 
 [Repository](https://github.com/josephgitau/Barbados-Lands-and-Surveys-Plot-Automation-Challenge) · [Data prep notebook](https://colab.research.google.com/drive/14nPASQP6cgCVI7arl8D_sQPInCbogRgd?usp=sharing)
 
-### 03. Sentiment Story Generation Bot
+### 03. Lightweight Swahili ASR
 
-An NLP experiment that detects emotional signal from text and uses it to generate contextual story responses.
+An offline, privacy-preserving speech recognition system designed for low-resource Swahili transcription on accessible hardware.
 
-**Idea:** sentiment -> context -> generated story<br>
-**Focus:** language understanding, generation, and interaction design
+**Approach:** distilled Whisper + PEFT/LoRA + 8-bit quantization + East African noise augmentation<br>
+**Proof points:** private WER `17.81%` · approximately `1.24s` per audio file · runs within `16 GB` VRAM<br>
+**Why it matters:** useful speech systems should work beyond high-resource languages and cloud-only environments.
 
-[Repository](https://github.com/josephgitau/Sentiment_Story_Generation_Bot)
+[Repository](https://github.com/josephgitau/swahili_asr_sota_model)
+
+<details>
+<summary><strong>More experiments</strong></summary>
+
+[Sentiment Story Generation Bot](https://github.com/josephgitau/Sentiment_Story_Generation_Bot) · sentiment -> context -> generated story
+
+</details>
 
 ---
 
@@ -204,9 +240,19 @@ output:  notebooks, APIs, dashboards, repositories, field-ready insights
 
 ---
 
-## Current Missions
+## Notes From The Field
 
-- Make Nairobi property data easier to search, compare, and understand
+I write about the gap between impressive demos and systems people can trust:
+
+- [AI Facts vs Fiction: What Businesses Need to Know](https://africdsa.com/blog/separating-ai-fact-from-fiction)
+- [Enterprise AI Governance: NIST AI RMF, ISO 42001 and EU AI Act](https://africdsa.com/blog/navigating-enterprise-ai-governance)
+- [AfriCDSA Evolves into a Digital Transformation Firm](https://africdsa.com/blog/africdsa-digital-transformation-technology-firm)
+
+---
+
+## Next on the Bench
+
+- Make Nairobi property data easier to search, compare, and trust over time
 - Build stronger competition pipelines for NLP, vision, geospatial, and tabular ML
 - Package geospatial OCR and document-understanding workflows into reusable tools
 - Push deeper into speech and language systems for low-resource African contexts
@@ -217,7 +263,7 @@ output:  notebooks, APIs, dashboards, repositories, field-ready insights
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-josephgitau.me-0A66C2?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://josephgitau.me/)
+[![Nairobi Live Demo](https://img.shields.io/badge/Live%20Product-Nairobi%20Property%20Intel-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://nairobi-property-pricing-frontend.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Gitau-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephgitau/)
 [![Zindi](https://img.shields.io/badge/Zindi-Joseph__gitau-F28C28?style=for-the-badge)](https://zindi.world/users/Joseph_gitau)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=254704084626&text=Hello)
