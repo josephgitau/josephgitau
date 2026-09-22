@@ -97,7 +97,7 @@ AI for African housing, maps, language, agriculture, and public-interest dataset
 <a href="https://zindi.world/community?leaderboard=all-time&country=KE"><img src="https://img.shields.io/badge/ALL--TIME-LONG%20GAME-0A66C2?style=for-the-badge" alt="All-Time leaderboard"/></a><br><br>
 <img src="https://img.shields.io/badge/GLOBAL-%2316-0A66C2?style=for-the-badge" alt="All-Time global rank"/><br>
 <img src="https://img.shields.io/badge/Kenya-%236-00B4D8?style=for-the-badge" alt="All-Time country rank"/><br>
-<img src="https://img.shields.io/badge/POINTS-10%2C010-111827?style=for-the-badge" alt="All-Time points"/>
+<img src="https://img.shields.io/badge/POINTS-9%2C995-111827?style=for-the-badge" alt="All-Time points"/>
 </td>
 <td align="center" width="50%">
 <a href="https://zindi.world/community?leaderboard=2026%20Season&country=KE"><img src="https://img.shields.io/badge/2026%20Season-CURRENT%20FORM-6F4BDD?style=for-the-badge" alt="Seasonal leaderboard"/></a><br><br>
@@ -111,7 +111,7 @@ AI for African housing, maps, language, agriculture, and public-interest dataset
 <p>
 <img src="https://img.shields.io/badge/GOLD-5-FFD700?style=for-the-badge" alt="Gold medals"/>
 <img src="https://img.shields.io/badge/SILVER-8-A9A9A9?style=for-the-badge" alt="Silver medals"/>
-<img src="https://img.shields.io/badge/BRONZE-9-CD7F32?style=for-the-badge" alt="Bronze medals"/>
+<img src="https://img.shields.io/badge/BRONZE-10-CD7F32?style=for-the-badge" alt="Bronze medals"/>
 </p>
 
 <p>
@@ -125,7 +125,7 @@ AI for African housing, maps, language, agriculture, and public-interest dataset
 <a href="https://zindi.world/users/Joseph_gitau"><img src="https://img.shields.io/badge/OPEN-ZINDI%20PROFILE-F28C28?style=for-the-badge" alt="Open Zindi profile"/></a>
 <a href="https://api.zindi.world/v1/seasonal_leaderboard_rankings/zeFmdd/share"><img src="https://img.shields.io/badge/SHARE-2026%20Season%20RANK-6F4BDD?style=for-the-badge" alt="Share 2026 Season rank"/></a></p>
 
-<sub>Snapshot refreshed: 2026-09-21 11:48 UTC · Country: Kenya</sub>
+<sub>Snapshot refreshed: 2026-09-22 10:50 UTC · Country: Kenya</sub>
 
 </div>
 
