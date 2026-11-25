@@ -87,7 +87,7 @@ AI for African housing, maps, language, agriculture, and public-interest dataset
 
 <p><sub>Two leaderboards. One competitive dashboard.</sub></p>
 
-<img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/user/avatar/27463/thumb_6e6568c6-d4d1-433a-a53e-84d563cf404c.jpg" width="130" alt="Joseph Gitau on Zindi"/><br>
+<img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/user/avatar/27463/thumb_95a78479-5d2b-4e26-a938-1e41df90038a.gif" width="130" alt="Joseph Gitau on Zindi"/><br>
 <strong>Joseph_gitau</strong> · 🇰🇪 Kenya
 
 <table>
@@ -97,7 +97,7 @@ AI for African housing, maps, language, agriculture, and public-interest dataset
 <a href="https://zindi.world/community?leaderboard=all-time&country=KE"><img src="https://img.shields.io/badge/ALL--TIME-LONG%20GAME-0A66C2?style=for-the-badge" alt="All-Time leaderboard"/></a><br><br>
 <img src="https://img.shields.io/badge/GLOBAL-%2317-0A66C2?style=for-the-badge" alt="All-Time global rank"/><br>
 <img src="https://img.shields.io/badge/Kenya-%237-00B4D8?style=for-the-badge" alt="All-Time country rank"/><br>
-<img src="https://img.shields.io/badge/POINTS-9%2C099-111827?style=for-the-badge" alt="All-Time points"/>
+<img src="https://img.shields.io/badge/POINTS-9%2C084-111827?style=for-the-badge" alt="All-Time points"/>
 </td>
 <td align="center" width="50%">
 <a href="https://zindi.world/community?leaderboard=2026%20Season&country=KE"><img src="https://img.shields.io/badge/2026%20Season-CURRENT%20FORM-6F4BDD?style=for-the-badge" alt="Seasonal leaderboard"/></a><br><br>
@@ -117,7 +117,7 @@ AI for African housing, maps, language, agriculture, and public-interest dataset
 <p>
 <img src="https://img.shields.io/badge/BEST%20RANK-%2316-228B22?style=for-the-badge" alt="Best global rank"/>
 <img src="https://img.shields.io/badge/COMPETITIONS-91-0088CC?style=for-the-badge" alt="Competitions"/>
-<img src="https://img.shields.io/badge/SUBMISSIONS-1%2C128-111827?style=for-the-badge" alt="Submissions"/>
+<img src="https://img.shields.io/badge/SUBMISSIONS-1%2C129-111827?style=for-the-badge" alt="Submissions"/>
 </p>
 
 <p><a href="https://zindi.world/community?leaderboard=all-time&country=KE"><img src="https://img.shields.io/badge/VIEW-ALL--TIME-0A66C2?style=for-the-badge" alt="View All-Time leaderboard"/></a>
@@ -125,7 +125,7 @@ AI for African housing, maps, language, agriculture, and public-interest dataset
 <a href="https://zindi.world/users/Joseph_gitau"><img src="https://img.shields.io/badge/OPEN-ZINDI%20PROFILE-F28C28?style=for-the-badge" alt="Open Zindi profile"/></a>
 <a href="https://api.zindi.world/v1/seasonal_leaderboard_rankings/zeFmdd/share"><img src="https://img.shields.io/badge/SHARE-2026%20Season%20RANK-6F4BDD?style=for-the-badge" alt="Share 2026 Season rank"/></a></p>
 
-<sub>Snapshot refreshed: 2026-11-24 16:52 UTC · Country: Kenya</sub>
+<sub>Snapshot refreshed: 2026-11-25 16:41 UTC · Country: Kenya</sub>
 
 </div>
 
